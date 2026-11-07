@@ -50,5 +50,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            rohithgn/circle-area:latest
-            rohithgn/circle-area:${{ github.sha }}
+            rohithggn/circle-area:latest
+            rohithggn/circle-area:${{ github.sha }}
